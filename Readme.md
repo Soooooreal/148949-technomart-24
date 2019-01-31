@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Yulia Bezzubikova](https://up.htmlacademy.ru/htmlcss/24/user/148949).
-* Наставник: `Неизвестно`.
+* Наставник: [Nobody].
 
 ---
 
